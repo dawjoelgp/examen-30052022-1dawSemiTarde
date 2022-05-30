@@ -18,3 +18,6 @@
 ![uml](https://github.com/Cucala/examen-30052022-1dawSemiTarde/blob/main/images/uml.png)
 7. Volver a la rama principal y escribir en el readmi vuestro nombre y que esperáis del proximo año.
 8. Realizar un commit final y su push.
+
+
+PARA EL PROXIMO AÑO ME GUSTARIA APROBAR Y SACAR EL TITULO
