@@ -19,6 +19,30 @@ namespace JoelGP24
 
         private void button2_Click(object sender, EventArgs e)
         {
+             Form1 frm = new Form1();
+         if (frm.ShowDialog() == DialogResult.OK)
+             {
+                 string cadena1 = frm.cad1;
+                 string cadena1 = frm.cad2;
+                 bool boleano1 = frm.bl1;
+                 bool boleano2  = frm.bl2;
+             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+             Form1 frm = new Form1();
+         if (frm.ShowDialog() == DialogResult.OK)
+             {
+                 string cadena1 = frm.cad1;
+                 string cadena1 = frm.cad2;
+                 bool boleano1 = frm.bl1;
+                 bool boleano2  = frm.bl2;
+             }
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
 
         }
     }
